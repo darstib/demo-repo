@@ -1,1 +1,1 @@
-I am in the branch of master.
+I am the result of merge.
