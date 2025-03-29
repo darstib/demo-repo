@@ -1,1 +1,1 @@
-I am the result of merge by hand.
+I am edit on master.
