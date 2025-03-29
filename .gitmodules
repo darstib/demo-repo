@@ -1,0 +1,6 @@
+[submodule "sub-repo/submod"]
+	path = sub-repo/submod
+	url = ./sub-repo/submod
+[submodule "github-resume"]
+	path = sub-repo/github-resume
+	url = https://github.com/darstib/darstib.git
