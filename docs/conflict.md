@@ -1,1 +1,1 @@
-I am in the branch dev.
+I am the result of merge by hand.
